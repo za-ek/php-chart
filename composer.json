@@ -1,0 +1,20 @@
+{
+  "name": "za-ek/chart",
+  "description": "Chart generator",
+  "require": {
+    "php": "^7.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Zaek\\Chart\\": ""
+    }
+  },
+  "license": "MIT",
+  "homepage": "https://www.za-ek.ru",
+  "authors": [
+    {
+      "name": "Zakhar Telyatnikov",
+      "email": "zt@za-ek.ru"
+    }
+  ]
+}
